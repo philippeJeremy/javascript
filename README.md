@@ -14,3 +14,16 @@
 
 ## BLOG
 
+
+
+## SNAKE
+1 - Incrémenter la vitesse de 5 à chaque fois que le serpent mange une pomme mais avec une limite de 920.
+2 - Cliquer sur l'écran pour démarrer la partie.
+3 - Dessiner le serpent avec 2 pixels de moins par carré pour mieux distinguer son corps.
+4 - Générer la pomme aléatoirement au départ.
+5 - Rendre le canvas adapté à la taille de l'écran.
+6 - Empêcher d'aller dans le sens opposé.
+7 - Redémarrer la partie après avoir perdu sur un clic.
+8 - Générer le serpent aléatoirement sur une ligne horizontale en étant sûr qu'il soit suffisamment éloigné des bords et générer également sa direction en étant sûr qu'il n'aille pas à l'ouest.
+9 - Changer la taille des carrés suivant la largeur de l'écran (rendre le jeu totalement responsive).
+10 - A chaque fois que la taille de la fenêtre est modifiée changer la taille des carrés et la taille du plateau.
